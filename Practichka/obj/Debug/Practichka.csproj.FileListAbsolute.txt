@@ -1,0 +1,15 @@
+C:\Users\Захар\source\repos\Practichka\Practichka\bin\Debug\Practichka.exe.config
+C:\Users\Захар\source\repos\Practichka\Practichka\bin\Debug\Practichka.exe
+C:\Users\Захар\source\repos\Practichka\Practichka\bin\Debug\Practichka.pdb
+C:\Users\Захар\source\repos\Practichka\Practichka\obj\Debug\Practichka.csprojAssemblyReference.cache
+C:\Users\Захар\source\repos\Practichka\Practichka\obj\Debug\MainWindow.g.cs
+C:\Users\Захар\source\repos\Practichka\Practichka\obj\Debug\App.g.cs
+C:\Users\Захар\source\repos\Practichka\Practichka\obj\Debug\Practichka_MarkupCompile.cache
+C:\Users\Захар\source\repos\Practichka\Practichka\obj\Debug\Practichka_MarkupCompile.lref
+C:\Users\Захар\source\repos\Practichka\Practichka\obj\Debug\MainWindow.baml
+C:\Users\Захар\source\repos\Practichka\Practichka\obj\Debug\Practichka.g.resources
+C:\Users\Захар\source\repos\Practichka\Practichka\obj\Debug\Practichka.Properties.Resources.resources
+C:\Users\Захар\source\repos\Practichka\Practichka\obj\Debug\Practichka.csproj.GenerateResource.cache
+C:\Users\Захар\source\repos\Practichka\Practichka\obj\Debug\Practichka.csproj.CoreCompileInputs.cache
+C:\Users\Захар\source\repos\Practichka\Practichka\obj\Debug\Practichka.exe
+C:\Users\Захар\source\repos\Practichka\Practichka\obj\Debug\Practichka.pdb
